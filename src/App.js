@@ -9,7 +9,7 @@ import Thanks from "./components/Thanks"
 
 
 export const config = {
-   endpoint: `https://qkart-by-prashant.herokuapp.com/api/v1`,
+   endpoint: `https://qkart-backend-nodejs-xkvb.onrender.com/v1`,
 };
 
 function App() {
